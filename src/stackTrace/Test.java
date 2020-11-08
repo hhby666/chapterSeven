@@ -5,5 +5,7 @@ package stackTrace;
  * @version Java1.9 IDEA2020.2
  */
 public class Test {
-    
+    public static void main(String[] args) {
+
+    }
 }
